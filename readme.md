@@ -1,8 +1,15 @@
+[![license](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://github.com/bionicvisionlab/2023-Pogoncheff-Explaining-V1-Properties/blob/master/LICENSE)
+[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2023.05.30.542912v1-orange)](https://doi.org/10.48550/arXiv.2305.11275)
+
 # Explaining V1 Properties with a Biologically Constrained Deep Learning Architecture
 
 This directory contains the code used to produce the results presented in *Explaining V1 Properties with a Biologically Constrained Deep Learning Architecture*.
 The subsections below provide an overview of the contents within this directory and how to run the provided code.
 
+Please cite as:
+
+> G Pogoncheff, J Granley, M Beyeler (2023). Explaining V1 Properties with a Biologically Constrained Deep Learning Architecture.
+> *Advances in Neural Information Processing Systems (NeurIPS) 2023*
 
 ## Directory Contents
 
